@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../react02"
+		},
+		{
+			"path": "../react01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
